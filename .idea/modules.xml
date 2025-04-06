@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Trabalhando_Com_Arrays/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Trabalhando_Com_Arrays/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coleções/Colecoes/Colecoes.iml" filepath="$PROJECT_DIR$/Coleções/Colecoes/Colecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturas_Sequenciais/Java_Sequenciais/Java_Sequenciais.iml" filepath="$PROJECT_DIR$/Estruturas_Sequenciais/Java_Sequenciais/Java_Sequenciais.iml" />
     </modules>
